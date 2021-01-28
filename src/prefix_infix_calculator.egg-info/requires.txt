@@ -1,0 +1,5 @@
+fastapi~=0.61.1
+gunicorn~=20.0.4
+uvicorn~=0.11.8
+requests
+pytest
