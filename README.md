@@ -14,9 +14,9 @@ Docker : run `docker run -p 5000:5000 calculator`
 
 
 - Test suite: 
-- Run: `pipenv sync`
-- Activate the environment: `pipenv shell`
-- Run: `pipenv run pytest -v tests/`
+    - Run: `pipenv sync`
+    - Activate the environment: `pipenv shell`
+    - Run: `pipenv run pytest -v tests/`
 
 
 ### Things to improve on 
